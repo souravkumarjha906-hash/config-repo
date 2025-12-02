@@ -2,7 +2,7 @@ global:
   message: Welcome to Microservices environmernt!!
 logging:
   level:
-    root:INFO
+    root: INFO
 management:
   endpoints:
     web:
